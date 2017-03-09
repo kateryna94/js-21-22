@@ -1,0 +1,1 @@
+function pow(r,e){var o=1;for(i=0;i<Math.abs(power);i++)o*=integer;return power>0?o:1/o}try{module.exports=pow}catch(r){}var integer=prompt("Введите число"),power=prompt("Введите степень");alert(pow(integer,power));
